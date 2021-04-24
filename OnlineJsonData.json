@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_banner_id" : "ca-app-pub-6552403043822494/1677408903",
+      "admob_interstitial_id" : "ca-app-pub-6552403043822494/9364327232",
+      "admob_native_id" : "ca-app-pub-6552403043822494/6546592207",
+      "admob_rewarded_id" : "ca-app-pub-6552403043822494/2140427424",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -23,7 +23,7 @@
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "0",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -45,76 +45,67 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dadamou.github.io/vlad/VLAD-AND-NIKI-PRESS-2.png",
       "state" : "free",
-      "title" : "dadamou",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 0 <br>My written"
+      "written" : ""
     },
     {
       "id" : 1,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dadamou.github.io/vlad/bf70c1347e2e98b8f024153db2ebd429.jpg",
       "state" : "free",
-      "title" : "Test title 1",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 1"
-    },
+      "written" : ""
+     },
     {
       "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dadamou.github.io/vlad/vlad-and-niki-12-locks-29238-3.jpg",
       "state" : "free",
-      "title" : "Test title 2",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 2"
-    },
+      "written" : ""
+     },
     {
       "id" : 3,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dadamou.github.io/vlad/bf70c1347e2e98b8f024153db2ebd429.jpg",
       "state" : "free",
-      "title" : "Test title 3",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 3"
-    },
+      "written" : ""
+     },
     {
       "id" : 4,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dadamou.github.io/vlad/ghj.jpg",
       "state" : "free",
-      "title" : "Test title 4",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 4"
-    },
+      "written" : ""
+      },
     {
       "id" : 5,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dadamou.github.io/vlad/com-rud-twelvelocksvn-fr-2.png",
       "state" : "free",
-      "title" : "Test title 5",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 5"
-    },
+      "written" : ""
+   },
     {
       "id" : 6,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dadamou.github.io/vlad/com-rud-twelvelocksvn-fr-5.png",
       "state" : "free",
-      "title" : "Test title 6",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 6"
+      "written" : ""
     },
     {
       "id" : 7,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 7",
+      "imageURL" : "https://dadamou.github.io/vlad/vlad-and-niki-12-locks-29238-5.jpg",
+      "state" : "free",
+      "title" : "Vlad and Niki",
       "description" : "",
-      "written" : "Test written 7"
-    },
-    {
-      "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 8",
-      "description" : "",
-      "written" : "Test written 8"
+      "written" : ""
     }
   ]
 }
-
