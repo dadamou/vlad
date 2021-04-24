@@ -58,54 +58,6 @@
       "title" : "Vlad and Niki",
       "description" : "",
       "written" : ""
-     },
-    {
-      "id" : 2,
-      "imageURL" : "https://dadamou.github.io/vlad/vlad-and-niki-12-locks-29238-3.jpg",
-      "state" : "free",
-      "title" : "Vlad and Niki",
-      "description" : "",
-      "written" : ""
-     },
-    {
-      "id" : 3,
-      "imageURL" : "https://dadamou.github.io/vlad/bf70c1347e2e98b8f024153db2ebd429.jpg",
-      "state" : "free",
-      "title" : "Vlad and Niki",
-      "description" : "",
-      "written" : ""
-     },
-    {
-      "id" : 4,
-      "imageURL" : "https://dadamou.github.io/vlad/ghj.jpg",
-      "state" : "free",
-      "title" : "Vlad and Niki",
-      "description" : "",
-      "written" : ""
-      },
-    {
-      "id" : 5,
-      "imageURL" : "https://dadamou.github.io/vlad/com-rud-twelvelocksvn-fr-2.png",
-      "state" : "free",
-      "title" : "Vlad and Niki",
-      "description" : "",
-      "written" : ""
-   },
-    {
-      "id" : 6,
-      "imageURL" : "https://dadamou.github.io/vlad/com-rud-twelvelocksvn-fr-5.png",
-      "state" : "free",
-      "title" : "Vlad and Niki",
-      "description" : "",
-      "written" : ""
-    },
-    {
-      "id" : 7,
-      "imageURL" : "https://dadamou.github.io/vlad/vlad-and-niki-12-locks-29238-5.jpg",
-      "state" : "free",
-      "title" : "Vlad and Niki",
-      "description" : "",
-      "written" : ""
-    }
+     }
   ]
 }
