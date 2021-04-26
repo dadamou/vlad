@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-9565218898651576/8866204609",
-      "admob_interstitial_id" : "ca-app-pub-9565218898651576/5960839668",
-      "admob_native_id" : "ca-app-pub-9565218898651576/7082349645",
-      "admob_rewarded_id" : "ca-app-pub-9565218898651576/2248346433",
+      "admob_banner_id" : "ca-app-pub-6552403043822494/9192404015",
+      "admob_interstitial_id" : "ca-app-pub-6552403043822494/5253159003",
+      "admob_native_id" : "ca-app-pub-6552403043822494/4870015626",
+      "admob_rewarded_id" : "ca-app-pub-6552403043822494/5061587312",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -20,8 +20,8 @@
       "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL",
       "facebook_native_id" : "IMG_16_9_APP_INSTALL"
     },
-    "mode_ads_banner" : 0",
-    "mode_ads_interstitial" : "0",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
     "mode_button_ads_action" : "0",
@@ -58,6 +58,54 @@
       "title" : "Vlad and Niki",
       "description" : "",
       "written" : ""
-     }
+     },
+    {
+      "id" : 2,
+      "imageURL" : "https://dadamou.github.io/vlad/vlad-and-niki-12-locks-29238-3.jpg",
+      "state" : "free",
+      "title" : "Vlad and Niki",
+      "description" : "",
+      "written" : ""
+     },
+    {
+      "id" : 3,
+      "imageURL" : "https://dadamou.github.io/vlad/bf70c1347e2e98b8f024153db2ebd429.jpg",
+      "state" : "free",
+      "title" : "Vlad and Niki",
+      "description" : "",
+      "written" : ""
+     },
+    {
+      "id" : 4,
+      "imageURL" : "https://dadamou.github.io/vlad/ghj.jpg",
+      "state" : "free",
+      "title" : "Vlad and Niki",
+      "description" : "",
+      "written" : ""
+      },
+    {
+      "id" : 5,
+      "imageURL" : "https://dadamou.github.io/vlad/com-rud-twelvelocksvn-fr-2.png",
+      "state" : "free",
+      "title" : "Vlad and Niki",
+      "description" : "",
+      "written" : ""
+   },
+    {
+      "id" : 6,
+      "imageURL" : "https://dadamou.github.io/vlad/com-rud-twelvelocksvn-fr-5.png",
+      "state" : "free",
+      "title" : "Vlad and Niki",
+      "description" : "",
+      "written" : ""
+    },
+    {
+      "id" : 7,
+      "imageURL" : "https://dadamou.github.io/vlad/vlad-and-niki-12-locks-29238-5.jpg",
+      "state" : "free",
+      "title" : "Vlad and Niki",
+      "description" : "",
+      "written" : ""
+    }
   ]
 }
